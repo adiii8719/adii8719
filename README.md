@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=adiii8719&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 
 ### 👨‍🎓 About Me
-- 🎓 B.Tech Student at **IES University, Bhopal**
+- 🎓 Bca Student at **IES University, Bhopal**
 - 📍 Living in **Bhopal, MP**
 - 💻 Passionate about **Web Development & Cyber Security**
 - 🎯 Goal: To crack a job at **Infosys / Amazon**
